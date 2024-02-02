@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi, I am Aleksandra ✨
+---
 
-<!--
-**Aleksrac/Aleksrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+## 👧 About me
 
-Here are some ideas to get you started:
+I'm a first-year student at Epitech Technology. I'm learning the key concepts of the C language by developing concrete projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  🚀 Skills
+
+- Programming language : C and Python
+- Learning in progress : Nodejs
+
+ ---
+
+##  🎓 Goal
+- Continue to deepen my knowledge of C and Python.
+- Explore new and exciting areas of computer science.
+
+---
+
+## ✉️ Contact
+📕 [linkedin][linkedin]
+
+E-mail : aleksandra.racine@epitech.eu
+
+[linkedin]: https://www.linkedin.com/in/aleksandra-racine-96a868250/
